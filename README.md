@@ -14,7 +14,8 @@ Int. Storage: 256GB Verbatim Vi550 S3 SSD + 1TB Toshiba P110 HDD
 Motherboard: Asrock A320M-HDV R4.0  
 Graphics: Asus Dual Mini GeForce GTX 1650 OC 4GB GDDR6  
 Case: CiT Tornado RGB  
-OS: Windows 10 Pro 20H2  
+OS: Arch Linux  
+Desktop: KDE Plasma 5  
 Price: £600  
 
 Well, that's it for my main PC  
